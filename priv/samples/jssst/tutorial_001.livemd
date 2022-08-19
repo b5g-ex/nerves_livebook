@@ -1,0 +1,23 @@
+# ソフトウェア科学会第39回大会チュートリアル「関数型言語Elixirで始めるIoTシステム開発入門」
+
+## 基本編
+[資料 - 基本編](https://docs.google.com/presentation/d/10pky65LT8X3LLgHH4IGRT6IC2D5dRosePQzalOKRyRE/)
+TODO: URLは後で修正する
+
+
+### Circuits.GPIOで遊んでみよう（LED）
+
+```elixir
+```
+
+
+### Circuits.GPIOで遊んでみよう（Button）
+
+```elixir
+```
+
+
+### Circuits.GPIOで遊んでみよう（Advanced）
+
+```elixir
+```
